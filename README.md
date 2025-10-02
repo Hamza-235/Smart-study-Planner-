@@ -1,4 +1,4 @@
-**📘 AceTask – Smart Study Planner**
+##**📘 AceTask – Smart Study Planner**
 
 AceTask is a lightweight study planner web app built with vanilla HTML, CSS, and JavaScript. It helps students and learners boost productivity and time management by letting them create, view, and manage study goals, reminders, and visual timelines. All data is stored locally in the browser, ensuring privacy and offline usability.
 
